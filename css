@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>clouds and mountain</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img class="top_image" src="cloud.png">
+    <div class="div1">
+        
+        <h1 >
+            I'm Pradumn
+        </h1>
+        <h4>a web developer</h4>
+    </div>
+        <img src="mountain.png">
+        <img class="bottom_image" src="cloud.png">
+    
+    
+</body>
+</html>
