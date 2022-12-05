@@ -1,17 +1,40 @@
-.div1{
-    position: absolute;
-    top: 50dp;
-    left: 200dp;
-}
-   
 body{
-    position: relative;
-    background-color: #C0EEE4;
-    margin: 0
+    text-align: center;
     
+    font-family: 'Merriweather', serif;
+    background-color: #C0EEE4;
+    
+
 }
 .top_image{
+    position: relative;
+    margin-top: 50px;
+    left: 200px;
+}
+.bottom_image
+{
     position: absolute;
-    top: 50dp;
-    right: 200dp;
+    left: 500px;
+}
+.top_container{
+    position: relative;
+    
+}
+h1{
+  color: rgb(59, 137, 137);
+}
+h2{
+    color: rgb(59, 137, 137);
+
+
+}
+h3{
+    color: rgb(59, 137, 137);
+
+
+}
+
+.div1{
+
+   
 }
