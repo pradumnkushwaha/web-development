@@ -20,6 +20,11 @@ body{
     position: relative;
     
 }
+.middle-container
+{
+    position: relative;
+
+}
 h1{
   color: rgb(59, 137, 137);
 }
@@ -33,8 +38,55 @@ h3{
 
 
 }
+.profile
+{
+    margin-top: 70px;
+    position: relative;
+    height: auto;
+    width: 700px;
+    margin-left: 400px;
+    
+}
 
-.div1{
-
+.angela{
+    position: relative;
+    float: left;
+    width: 200PX;
+    height: 200px;
+        
+}
+.skill-row{
+    margin-top: 70px;
+    position: relative;
+    height: auto;
+    width: 700px;
+    margin-left: 400px;
+}
+.myskill{
+    text-align: center;
+    
+    margin-left: 800px;
+}
+.skills{
+    margin-top: 70px;
+    position: relative;
+    height: auto;
+    width: 700px;
+    
+}
+.chillies{
+    position: relative;
+    float: left;
    
+    width: 200PX;
+  height: 200px;
+}
+.computer{
+    position: relative;
+    float: left;
+    width: 200PX;
+    height: 200px;
+}
+.h2{
+    margin-left: 0%;
 }
