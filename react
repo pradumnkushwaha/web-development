@@ -1,3 +1,33 @@
 Learning react 
 today leaned components 
 learning about states in react
+
+
+today learned handsOn on stated 
+
+import React ,{ useState } from "react";
+
+function App() {
+
+  const [count, setCount] = useState(0);
+
+  function time()
+  {
+    var date = new Date();
+    const showTime = date.getHours() 
+          + ':' + date.getMinutes() 
+          + ":" + date.getSeconds();
+    setCount(showTime);
+  }
+
+  return (
+    <div>
+    <h1>{count}</h1>
+    <button onClick={time}>+</button>
+          
+         
+          </div>
+  )
+}
+
+export default App;
